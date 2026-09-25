@@ -1,81 +1,73 @@
 # 📊 Retail Sales Performance Analysis
 
-A **Data Analytics project** focused on analyzing retail sales performance, identifying business trends, and generating data-driven recommendations using **Python and Power BI**.
+An end-to-end retail sales analytics project using Python and Power BI to analyze sales performance, profitability, customer segments, and business trends.
 
-## 🎯 Objective
+## 🎯 Project Objective
 
-Analyze retail performance to understand:
-
-* Sales & profitability
-* Product/category performance
-* Regional & store performance
-* Customer segment behavior
-* Monthly sales trends
-* Impact of discounts on profit
+To analyze retail sales data, identify business trends, evaluate profitability, and create an interactive dashboard to support data-driven business decisions.
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Pandas & NumPy**
-* **Matplotlib & Seaborn**
-* **Jupyter Notebook**
-* **Power BI**
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Power BI & DAX
+- Jupyter Notebook
+- Git & GitHub
 
 ## 🔍 Analysis Performed
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* KPI Analysis
-* Sales & Profit Analysis
-* Regional & Customer Segmentation
-* Product & Store Performance
-* Time-Series Analysis
-* Discount Analysis
-* Correlation Analysis
-* Data Visualization
-* Business Insights & Recommendations
+- Data cleaning and duplicate removal
+- Exploratory Data Analysis (EDA)
+- Sales and profit analysis
+- Category, region, store, and customer segment analysis
+- Monthly sales trend analysis
+- Discount vs. profit analysis
+- Interactive Power BI dashboard development
+
+## 📈 Power BI Dashboard
+
+An interactive dashboard built in Power BI to visualize key business metrics and sales performance.
+
+### Dashboard Preview
+
+![Retail Sales Performance Dashboard](https://drive.google.com/file/d/1KqmRFA-e1Izfy_c6Sy1uUkORiVXtt9md/view?usp=sharing)
+
+### Dashboard Features
+
+- KPI Cards: Total Sales, Total Quantity, Total Profit, and Total Orders
+- Sales by Store
+- Monthly Sales Trend
+- Profit by Product Category
+- Sales by Region
+- Sales by Customer Segment
+- Interactive Slicers for Store, Product Category, and Region
 
 ## 💡 Key Insights
 
-* **Office Supplies** was the leading category in sales and profit.
-* **West region** generated the highest sales and profit.
-* **Consumer segment** contributed the highest sales.
-* **May** recorded the strongest sales and profit performance.
-* Sales and profit showed a strong positive relationship.
-* Higher discounts showed a negative relationship with profit.
+- Office Supplies recorded the highest profit among the product categories.
+- Store H generated the highest sales among the stores displayed.
+- May recorded the highest monthly sales.
+- The West region contributed the largest share of sales.
+- Consumer customers accounted for the largest share of sales by customer segment.
 
-## 📈 Business Recommendations
+## ✅ Business Recommendations
 
-* Focus on high-performing categories while improving weaker categories.
-* Analyze successful strategies used in the West region.
-* Strengthen engagement with the Consumer segment.
-* Review lower-performing stores based on sales and profitability.
-* Optimize discount strategies to protect profit margins.
-* Focus on **profitable revenue growth** rather than sales volume alone.
-
-## 📊 Dashboard
-
-An interactive **Power BI dashboard** is included to monitor:
-
-**Sales | Profit | Quantity | Profit Margin | Categories | Regions | Customers | Trends | Discounts**
+- Optimize discount strategies to improve profitability.
+- Identify high-performing stores and replicate successful practices.
+- Plan inventory and promotions based on monthly sales trends.
+- Develop targeted marketing strategies for different customer segments and regions.
 
 ## 📁 Project Structure
 
 ```text
 Retail-Sales-Performance-Analysis/
 │
-├── Retail_Sales_Analysis.ipynb
-├── README.md
-├── dashboard/
-│   └── Retail_Sales_Dashboard.pbix
-└── images/
-    └── dashboard.png
-```
-
-## 👨‍💻 Skills Demonstrated
-
-**Data Cleaning • EDA • Data Visualization • KPI Development • Business Analysis • Data Storytelling • Power BI • Python • Insight Generation • Data-Driven Decision Making**
-
----
-
-**Project Type:** Business Analytics / Data Analyst Portfolio Project
+├── assets/
+│   └── dashboard.png
+│
+├── Retail Sales Performance Analysis.ipynb
+│
+├── Retail Sales Performance Analysis.pbix
+│
+└── README.md
