@@ -63,11 +63,7 @@ An interactive dashboard built in Power BI to visualize key business metrics and
 ```text
 Retail-Sales-Performance-Analysis/
 │
-├── assets/
-│   └── dashboard.png
-│
 ├── Retail Sales Performance Analysis.ipynb
-│
 ├── Retail Sales Performance Analysis.pbix
-│
+├── Dashboard Snapshot.png
 └── README.md
