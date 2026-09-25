@@ -31,7 +31,7 @@ An interactive dashboard built in Power BI to visualize key business metrics and
 
 ### Dashboard Preview
 
-![Retail Sales Performance Dashboard](https://drive.google.com/file/d/1KqmRFA-e1Izfy_c6Sy1uUkORiVXtt9md/view?usp=sharing)
+![Retail Sales Performance Dashboard](dashboard%20snapshot.png)
 
 ### Dashboard Features
 
